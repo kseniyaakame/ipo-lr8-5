@@ -2,7 +2,7 @@ import json
 
 def save(date):
     with open("city.json", "w", encoding = "utf-8") as file:
-        json.dump(date, "city.json", indent=5)
+        json.dump(date, file, indent=5)
 
 def all_rec(date):
     for record in date:
@@ -65,6 +65,7 @@ def main():
             save(date)
             count +=1
         elif num == 4:
+            field = input('Введите поле для удаления: ')
             delete(date, field)
             save(date)
             count +=1
