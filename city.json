@@ -1,0 +1,37 @@
+[
+     {
+          "id": "1",
+          "name": "\u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c",
+          "country": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+          "is_big": true,
+          "people_count": 900000
+     },
+     {
+          "id": "2",
+          "name": "\u0421\u0435\u0443\u043b",
+          "country": "\u042e\u0436\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f",
+          "is_big": true,
+          "people_count": 9500000
+     },
+     {
+          "id": "3",
+          "name": "\u041d\u044e\u0440\u043d\u0431\u0435\u0440\u0433",
+          "country": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+          "is_big": true,
+          "people_count": 520000
+     },
+     {
+          "id": "4",
+          "name": "\u0410\u043d\u0430\u043f\u0430",
+          "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "is_big": false,
+          "people_count": 90000
+     },
+     {
+          "id": "5",
+          "name": "\u041b\u043e\u0441-\u0410\u043d\u0434\u0436\u0435\u043b\u0435\u0441",
+          "country": "\u0421\u0428\u0410",
+          "is_big": true,
+          "people_count": 4000000
+     }
+]
